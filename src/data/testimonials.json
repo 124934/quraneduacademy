@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "Sister Yasmin Chowdhury",
+    "role": "Mother of 2 Students (Ages 7 & 10)",
+    "location": "London, United Kingdom",
+    "countryCode": "GB",
+    "rating": 5,
+    "course": "Noorani Qaida & Tajweed",
+    "avatarText": "YC",
+    "quote": "My children used to resist Quran classes at our local center due to large class sizes. At Quran Education Academy, their teacher Ustadha Fatima is so gentle, patient, and engaging. In just 4 months, my 7-year-old finished Qaida and can recite Surah Al-Mulk with proper Makharij!",
+    "verified": true
+  },
+  {
+    "id": "2",
+    "name": "Brother Farhan Siddiqui",
+    "role": "Software Engineer & Student",
+    "location": "Dallas, Texas, USA",
+    "countryCode": "US",
+    "rating": 5,
+    "course": "Quran with Tajweed & Arabic",
+    "avatarText": "FS",
+    "quote": "As a working professional in the US, finding a teacher who accommodates my 7:00 AM CST schedule was impossible until I found Quran Education Academy. Sheikh Bilal is a true scholar. His breakdown of Ahkam al-Madd and Noon Saakin transformed how I recite in Salah.",
+    "verified": true
+  },
+  {
+    "id": "3",
+    "name": "Dr. Tariq Al-Hashimi",
+    "role": "Father of Hifz Student (Zaid, Age 12)",
+    "location": "Toronto, Ontario, Canada",
+    "countryCode": "CA",
+    "rating": 5,
+    "course": "Quran Memorization (Hifz)",
+    "avatarText": "TA",
+    "quote": "Zaid has now memorized 18 Juz with Quran Education Academy! The daily Sabaq-Sabqi revision methodology guarantees that older Surahs remain crystal clear in his memory. We receive weekly voice updates from the teacher. Truly a blessing for our family.",
+    "verified": true
+  },
+  {
+    "id": "4",
+    "name": "Sister Maryam Al-Nuaimi",
+    "role": "Parent & Revert Sister",
+    "location": "Sydney, Australia",
+    "countryCode": "AU",
+    "rating": 5,
+    "course": "Quran Reading & Islamic Studies",
+    "avatarText": "MA",
+    "quote": "Entering Islam 2 years ago, I felt overwhelmed by Arabic phonetics. My teacher never rushed me, celebrated every milestone, and explained the beautiful reasons behind our daily rituals. I can now read the Quran independently with peace in my heart.",
+    "verified": true
+  },
+  {
+    "id": "5",
+    "name": "Brother Usman Qureshi",
+    "role": "Parent of Hamza (Age 9)",
+    "location": "Birmingham, UK",
+    "countryCode": "GB",
+    "rating": 5,
+    "course": "Salah & Daily Duas",
+    "avatarText": "UQ",
+    "quote": "Seeing my 9-year-old son enthusiastically make Wudu and recite all the Sunnah Duas before sleeping brings tears to my eyes. The academy has built genuine love for Allah and His Messenger in my child.",
+    "verified": true
+  },
+  {
+    "id": "6",
+    "name": "Sister Zainab El-Khatib",
+    "role": "University Student",
+    "location": "Dubai, United Arab Emirates",
+    "countryCode": "AE",
+    "rating": 5,
+    "course": "Translation & Tafseer",
+    "avatarText": "ZE",
+    "quote": "The Tafseer course gave my life direction. We delve into the historical context and linguistics of each ayah. It is so much more than recitation—it is living guidance for everyday decisions.",
+    "verified": true
+  }
+]

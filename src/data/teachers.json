@@ -1,0 +1,160 @@
+[
+  {
+    "id": "qari-abdul-rehman",
+    "name": "Qari Abdul Rehman Al-Azhari",
+    "arabicName": "القارئ عبد الرحمن الأزهري",
+    "gender": "male",
+    "title": "Senior Tajweed & Qira’at Specialist",
+    "qualifications": "B.A. in Islamic & Quranic Studies, Al-Azhar University, Cairo",
+    "specialization": [
+      "Advanced Tajweed",
+      "Ten Qira’at",
+      "Quran Memorization (Hifz)"
+    ],
+    "experience": "14+ Years Teaching Experience",
+    "studentsTaught": 850,
+    "languages": [
+      "Arabic",
+      "English",
+      "Urdu"
+    ],
+    "bio": "Holding an authentic Sanad and Ijazah connecting directly to the Prophet Muhammad (PBUH) in Hafs and Shu’ba, Qari Abdul Rehman has guided hundreds of students in the UK, USA, and Gulf to master immaculate Tajweed and complete memorization.",
+    "image": "/assets/images/teacher_scholar_male_1790269882669.jpg",
+    "certifications": [
+      "Al-Azhar University Qira’at Board Certification",
+      "Ijazah in Hafs ‘an ‘Asim and Warsh",
+      "Certified International Quran Competition Judge"
+    ]
+  },
+  {
+    "id": "ustadha-fatima-zahra",
+    "name": "Ustadha Fatima Zahra",
+    "arabicName": "الأستاذة فاطمة الزهراء",
+    "gender": "female",
+    "title": "Head of Female & Children Education",
+    "qualifications": "Shahadat-ul-Alimiyyah (M.A. Islamic Studies) & Hafiza of Quran",
+    "specialization": [
+      "Noorani Qaida for Kids",
+      "Female Tajweed Classes",
+      "Salah & Duas"
+    ],
+    "experience": "10+ Years Teaching Experience",
+    "studentsTaught": 620,
+    "languages": [
+      "English",
+      "Urdu"
+    ],
+    "bio": "Ustadha Fatima is renowned for her gentle, encouraging, and playful teaching style with young children and female students. Her patience makes learning Arabic letters and short Surahs joyful and effortless for little beginners.",
+    "image": "/assets/images/islamic_academy_learning_1790269898921.jpg",
+    "certifications": [
+      "Gold Medalist Wifaqul Madaris Al-Arabiyya",
+      "Certified Child Psychology in Islamic Pedagogy",
+      "Ijazah in Tajweed Al-Jazariyyah"
+    ]
+  },
+  {
+    "id": "sheikh-muhammad-bilal",
+    "name": "Sheikh Muhammad Bilal",
+    "arabicName": "الشيخ محمد بلال",
+    "gender": "male",
+    "title": "Senior Hifz Mentor & Tafseer Lecturer",
+    "qualifications": "Graduate of Islamic University of Madinah, Faculty of Holy Quran",
+    "specialization": [
+      "Intensive Hifz",
+      "Tafseer & Translation",
+      "Mutashabihat Mastery"
+    ],
+    "experience": "12+ Years Teaching Experience",
+    "studentsTaught": 740,
+    "languages": [
+      "Arabic",
+      "English",
+      "Urdu"
+    ],
+    "bio": "Having completed Hifz at age 11 in Madinah al-Munawwarah, Sheikh Bilal specializes in systematic retention techniques. He has mentored over 45 students who have completed the full 30 Juz memorization with distinction.",
+    "image": "/assets/images/teacher_scholar_male_1790269882669.jpg",
+    "certifications": [
+      "Faculty of Holy Quran, Islamic University of Madinah",
+      "Mastery Certificate in Sabaq-Sabqi Retention System",
+      "Taraweeh Reciter in Major Masajid"
+    ]
+  },
+  {
+    "id": "ustadha-maryam-khalid",
+    "name": "Ustadha Maryam Khalid",
+    "arabicName": "الأستاذة مريم خالد",
+    "gender": "female",
+    "title": "Quranic Arabic & Tajweed Specialist",
+    "qualifications": "B.S. in Arabic Linguistics & Hafiza of the Quran",
+    "specialization": [
+      "Quranic Arabic Grammar",
+      "Teen Girls Mentorship",
+      "Nazra Quran"
+    ],
+    "experience": "8+ Years Teaching Experience",
+    "studentsTaught": 480,
+    "languages": [
+      "English",
+      "Arabic",
+      "Urdu"
+    ],
+    "bio": "Dedicated to empowering sisters and youth, Ustadha Maryam bridges classical Arabic grammar with real-world understanding of Quranic verses, bringing depth and emotion into daily prayers.",
+    "image": "/assets/images/quran_tajweed_reading_1790269867429.jpg",
+    "certifications": [
+      "Certified Arabic Grammar Instructor",
+      "Ijazah in Tuhfat al-Atfal and Al-Jazariyyah",
+      "Youth Islamic Mentorship Certificate"
+    ]
+  },
+  {
+    "id": "hafiz-tariq-mahmood",
+    "name": "Hafiz Qari Tariq Mahmood",
+    "arabicName": "الحافظ القارئ طارق محمود",
+    "gender": "male",
+    "title": "Lead Nazra & Makharij Tutor",
+    "qualifications": "Dars-e-Nizami & Wifaqul Madaris Hafiz Certificate",
+    "specialization": [
+      "Noorani Qaida",
+      "Nazra Quran Reading",
+      "Makharij Pronunciation"
+    ],
+    "experience": "9+ Years Teaching Experience",
+    "studentsTaught": 590,
+    "languages": [
+      "English",
+      "Urdu",
+      "Punjabi"
+    ],
+    "bio": "Known for his crystal-clear pronunciation drills and warm encouragement, Hafiz Tariq transforms hesitant beginner readers into smooth, melodic reciters within weeks.",
+    "image": "/assets/images/hero_quran_rehal_1790269853962.jpg",
+    "certifications": [
+      "Wifaqul Madaris Sanad in Hifz and Tajweed",
+      "Digital Classroom Excellence Award 2024"
+    ]
+  },
+  {
+    "id": "ustadha-aisha-siddiqah",
+    "name": "Ustadha Aisha Siddiqah",
+    "arabicName": "الأستاذة عائشة الصديقة",
+    "gender": "female",
+    "title": "Islamic Studies & Hadith Lecturer",
+    "qualifications": "Master of Arts in Islamic History & Seerah",
+    "specialization": [
+      "Comprehensive Islamic Studies",
+      "Seerah of Prophet (PBUH)",
+      "Salah & Duas"
+    ],
+    "experience": "11+ Years Teaching Experience",
+    "studentsTaught": 510,
+    "languages": [
+      "English",
+      "Urdu"
+    ],
+    "bio": "Ustadha Aisha specializes in making Islamic history, prophetic character, and daily Sunnahs come alive for children and teenagers living across Western societies.",
+    "image": "/assets/images/islamic_academy_learning_1790269898921.jpg",
+    "certifications": [
+      "Al-Alimiyyah Degree in Hadith & Fiqh",
+      "Curriculum Developer for Diaspora Youth"
+    ]
+  }
+]

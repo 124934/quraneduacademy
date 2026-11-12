@@ -1,0 +1,38 @@
+{
+  "USD": {
+    "code": "USD",
+    "symbol": "$",
+    "name": "US Dollar",
+    "rateToUSD": 1
+  },
+  "GBP": {
+    "code": "GBP",
+    "symbol": "£",
+    "name": "British Pound",
+    "rateToUSD": 0.78
+  },
+  "EUR": {
+    "code": "EUR",
+    "symbol": "€",
+    "name": "Euro",
+    "rateToUSD": 0.92
+  },
+  "CAD": {
+    "code": "CAD",
+    "symbol": "C$",
+    "name": "Canadian Dollar",
+    "rateToUSD": 1.35
+  },
+  "AUD": {
+    "code": "AUD",
+    "symbol": "A$",
+    "name": "Australian Dollar",
+    "rateToUSD": 1.52
+  },
+  "PKR": {
+    "code": "PKR",
+    "symbol": "Rs",
+    "name": "Pakistani Rupee",
+    "rateToUSD": 280
+  }
+}

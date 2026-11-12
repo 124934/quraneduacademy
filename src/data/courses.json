@@ -1,0 +1,375 @@
+[
+  {
+    "id": "noorani-qaida",
+    "slug": "noorani-qaida",
+    "title": "Noorani Qaida Course",
+    "arabicTitle": "القاعدة النورانية",
+    "category": "Foundation",
+    "level": "Beginner",
+    "suitableFor": "Young kids (age 4+) & adult beginners taking their first steps",
+    "duration": "3 to 5 Months (based on pace)",
+    "classesPerWeek": "3 to 5 classes / week (30 mins each)",
+    "shortDesc": "The essential foundation for Arabic phonetics, correct Makharij letter recognition, and joining Arabic letters.",
+    "fullOverview": "The Noorani Qaida course is the globally recognized primer for anyone wishing to recite the Holy Quran with authentic pronunciation. Our certified tutors guide students step-by-step from individual Arabic alphabets to compound words, vowel markers (Harakat), Tanween, Maddah, and Sukoon, laying an unbreakable foundation.",
+    "whatYouWillLearn": [
+      "Identification of 29 individual Arabic letters with distinct articulation points (Makharij)",
+      "Letter shapes: beginning, medial, and isolated letter forms",
+      "Short vowels (Fatha, Kasra, Damma) and Tanween (Double vowels)",
+      "Letters of Madd (Prolongation) and Leen letters",
+      "Sukoon (Jazm), Tashdeed (Shaddah), and Waqf (stopping) rules",
+      "Gradual progression to reading full Quranic words and short verses with confidence"
+    ],
+    "learningOutcomes": [
+      "Ability to recognize and articulate Arabic letters with accurate native phonetics",
+      "Fluency in combining letters into words without hesitation",
+      "Preparedness to transition seamlessly into reciting the Holy Quran directly",
+      "Elimination of common pronunciation errors before beginning Nazra"
+    ],
+    "courseBenefits": [
+      "Patient 1-on-1 personalized attention for young children",
+      "Visual interactive digital Qaida board during live classes",
+      "Regular feedback and recording sent to parents after every session",
+      "Weekly progress evaluations and certificate upon completion"
+    ],
+    "teachingMethodology": "Step-by-step oral drill and phonetic correction using interactive digital whiteboard and audio-visual feedback.",
+    "classFormat": "1-on-1 private live online session via Zoom or Google Meet with screen sharing and interactive stylus.",
+    "image": "/assets/images/quran_tajweed_reading_1790269867429.jpg",
+    "badge": "Best for Beginners",
+    "faqs": [
+      {
+        "question": "What is the ideal age to start Noorani Qaida?",
+        "answer": "Children as young as 4 to 5 years old can start comfortably. Our teachers specialize in child-friendly gamified learning techniques to keep little minds engaged."
+      },
+      {
+        "question": "Can adult beginners take this course?",
+        "answer": "Yes! We teach many revert brothers and sisters and adults who never had the chance to learn Arabic letters in childhood, in completely private 1-on-1 sessions."
+      }
+    ]
+  },
+  {
+    "id": "quran-reading",
+    "slug": "quran-reading",
+    "title": "Quran Reading (Nazra)",
+    "arabicTitle": "قراءة القرآن الكريم",
+    "category": "Recitation",
+    "level": "Beginner",
+    "suitableFor": "Students who completed Qaida or can identify Arabic letters",
+    "duration": "6 to 12 Months",
+    "classesPerWeek": "3 to 5 classes / week (30 mins each)",
+    "shortDesc": "Read the noble Quran fluently from cover to cover with correct pauses, rhythm, and reverence.",
+    "fullOverview": "The Quran Reading (Nazra) course empowers students to read through the entire Mushaf from Surah Al-Fatihah to Surah An-Nas. Under the close personal supervision of a certified Qari or Qaria, students develop smooth, hesitation-free reading while honoring the sacred etiquettes of reciting the Book of Allah.",
+    "whatYouWillLearn": [
+      "Fluent reading from Surah Al-Baqarah through the 30th Juz (Amma)",
+      "Mastery of stopping signs (Rumooz al-Awqaf) and breathing pauses",
+      "Proper pacing (Tarteel) neither too fast nor excessively slow",
+      "Correction of subconscious pronunciation slips and common stutter points",
+      "Spiritual etiquettes (Adab) of holding, reciting, and listening to the Quran"
+    ],
+    "learningOutcomes": [
+      "Complete full Khatam (completion) of the Holy Quran under teacher guidance",
+      "Independent recitation fluency with melodic tone and clarity",
+      "Confidence to recite Quran daily with spiritual tranquility"
+    ],
+    "courseBenefits": [
+      "1-on-1 pace tailored specifically to student reading speed",
+      "Daily recitation logs maintained in student portal",
+      "Completion certificate of Holy Quran Khatam awarded to the student"
+    ],
+    "teachingMethodology": "Direct oral recitation where the teacher listens line-by-line, corrects instantly, and models proper cadence.",
+    "classFormat": "Private 1-on-1 video/audio session with high-resolution digital Mushaf display.",
+    "image": "/assets/images/hero_quran_rehal_1790269853962.jpg",
+    "badge": "Core Program",
+    "faqs": [
+      {
+        "question": "How long does it take to complete the whole Quran reading?",
+        "answer": "For a student taking 4 classes per week, it typically takes between 8 to 12 months, depending on their consistency and practice time."
+      }
+    ]
+  },
+  {
+    "id": "quran-tajweed",
+    "slug": "quran-tajweed",
+    "title": "Quran with Tajweed Course",
+    "arabicTitle": "تجويد القرآن الكريم",
+    "category": "Recitation",
+    "level": "Intermediate",
+    "suitableFor": "Anyone wanting to beautify their recitation and follow the Prophet’s sunnah",
+    "duration": "6 to 9 Months",
+    "classesPerWeek": "3 to 4 classes / week (30-40 mins)",
+    "shortDesc": "Master the rules of Tajweed, theoretical science, and practical recitation as revealed to the Prophet (PBUH).",
+    "fullOverview": "Reciting the Quran with Tajweed is a sacred duty that preserves the divine speech exactly as it was revealed. This comprehensive course covers all classical Tajweed rules including Noon Saakin, Meem Saakin, Ghunnah, Qalqalah, Ahkam al-Madd, Sifaat (letter characteristics), and Makharij (deep articulation points).",
+    "whatYouWillLearn": [
+      "Precise anatomical articulation points (Makharij al-Huroof) from throat to lips",
+      "Characteristics of letters (Sifaat al-Huroof) like Hams, Jahr, and Isti’laa",
+      "Rules of Noon Saakinah and Tanween (Izhar, Idgham, Iqlab, Ikhfa)",
+      "Rules of Meem Saakinah (Idgham Shafawi, Ikhfa Shafawi, Izhar Shafawi)",
+      "All types of Madd (Natural, Obligatory, Permissible, Connected & Separated)",
+      "Qalqalah (Echoing sound) in major and minor degrees"
+    ],
+    "learningOutcomes": [
+      "Flawless recitation conforming to classical Hafs ‘an ‘Asim standard",
+      "Understanding the rationale and technical reasons behind every Tajweed rule",
+      "Beautified, melodious Quran recitation pleasing to the soul"
+    ],
+    "courseBenefits": [
+      "Taught by Ijazah-certified Qaris with authentic Sanad (lineage)",
+      "Color-coded Tajweed Mushaf provided in digital format",
+      "Practical audio comparison exercises and vocal tuning"
+    ],
+    "teachingMethodology": "Classical Talaqqi (direct oral transmission) combined with modern phonetic diagrams and rule drills.",
+    "classFormat": "1-on-1 intensive session with real-time vocal feedback and phonetics practice.",
+    "image": "/assets/images/quran_tajweed_reading_1790269867429.jpg",
+    "badge": "Most Popular",
+    "faqs": [
+      {
+        "question": "Do I need prior Arabic knowledge for the Tajweed course?",
+        "answer": "You only need to know how to read Arabic letters and words. The teacher explains the Tajweed rules in clear English or Urdu according to your preference."
+      }
+    ]
+  },
+  {
+    "id": "quran-memorization",
+    "slug": "quran-memorization",
+    "title": "Quran Memorization (Hifz)",
+    "arabicTitle": "حفظ القرآن الكريم",
+    "category": "Memorization",
+    "level": "Advanced",
+    "suitableFor": "Dedicated students of all ages striving to commit Allah’s word to memory",
+    "duration": "2 to 3 Years (or customized for Juz Amma / Surahs)",
+    "classesPerWeek": "5 classes / week (45 mins)",
+    "shortDesc": "A structured, proven Hifz program with daily Sabaq (new lesson), Sabqi (recent revision), and Manzil (old revision).",
+    "fullOverview": "Becoming a Hafiz of the Holy Quran is one of the highest honors in Islam. Our structured Hifz program pairs each student with an experienced Hafiz mentor. We utilize the time-tested 3-tier revision system to ensure what is memorized remains firmly anchored and never forgotten.",
+    "whatYouWillLearn": [
+      "Memorization of selected Surahs, individual Ajzaa, or the entire 30 Juz",
+      "Daily 3-part Hifz system: Sabaq (new), Sabqi (recent 5 Juz), Manzil (distant)",
+      "Techniques for retaining similar verses (Mutashabihat) without confusion",
+      "Breathing exercises and endurance techniques for long recitations",
+      "Preparation for leading Taraweeh and public recitation"
+    ],
+    "learningOutcomes": [
+      "Ironclad retention of memorized portions with instant recall",
+      "Solid Tajweed integration while reciting from heart memory",
+      "Spiritual discipline, focus, and life-long connection with the Quran"
+    ],
+    "courseBenefits": [
+      "Dedicated one-on-one Hafiz mentor who listens every single day",
+      "Customized pace: part-time (1 page/day) or full-time intensive tracks",
+      "Parental supervision portal with daily memorization status",
+      "Formal Ijazah / Hifz completion sanad upon passing comprehensive exam"
+    ],
+    "teachingMethodology": "Rigorous daily oral testing, Mutashabihat clarification, and systematic rotating revision cycles.",
+    "classFormat": "Daily 1-on-1 sessions (Monday to Friday) with strict attendance and revision tracking.",
+    "image": "/assets/images/hero_quran_rehal_1790269853962.jpg",
+    "badge": "Prestigious Track",
+    "faqs": [
+      {
+        "question": "Can school children do Hifz online alongside regular schooling?",
+        "answer": "Yes! Over 80% of our Hifz students attend regular school. We structure classes before school (fajr time) or in the evenings to fit seamlessly into their schedule."
+      },
+      {
+        "question": "Can I choose to memorize only Juz Amma or Surah Al-Kahf, Yaseen, etc.?",
+        "answer": "Absolutely. We offer customized short Hifz tracks for specific Surahs or the 30th Juz for both adults and kids."
+      }
+    ]
+  },
+  {
+    "id": "quran-translation",
+    "slug": "quran-translation",
+    "title": "Quran Translation Course",
+    "arabicTitle": "ترجمة القرآن الكريم",
+    "category": "Understanding",
+    "level": "Intermediate",
+    "suitableFor": "Seekers wanting to understand the meaning, historical context, and divine message",
+    "duration": "12 to 18 Months",
+    "classesPerWeek": "2 to 3 classes / week (45 mins)",
+    "shortDesc": "Understand the divine message word-by-word with grammatical parsing and clear contextual meaning in English or Urdu.",
+    "fullOverview": "The Quran Translation Course allows students to deeply comprehend the Holy Quran in English and Urdu. Learn root words, sentence structures, and direct meanings of the verses revealed by Allah without Tafseer complexities.",
+    "whatYouWillLearn": [
+      "Word-by-word translation and root word analysis of key Quranic terms",
+      "Contextual translation of Makki and Madani Surahs",
+      "Direct comprehension of the ethical and spiritual guidance in each verse",
+      "Grammatical breakdown of sacred Ayahs to understand sentence flow",
+      "Vocabulary retention drills for high-frequency Quranic terms"
+    ],
+    "learningOutcomes": [
+      "Ability to understand Quranic verses during recitation without continuous translation lookup",
+      "Appreciation of the linguistic clarity and divine wisdom of each Surah",
+      "Enhanced focus, spiritual presence, and Khushoo in daily prayers"
+    ],
+    "courseBenefits": [
+      "Taught by qualified Alim / Alimah scholars with deep linguistic training",
+      "Open Q&A discussion time at the end of each session",
+      "Curated lecture notes and summary slides provided after class"
+    ],
+    "teachingMethodology": "Interactive seminar-style 1-on-1 or small group with linguistic breakdowns and reflective discussion.",
+    "classFormat": "1-on-1 interactive class with digital study notes and thematic slides.",
+    "image": "/assets/images/islamic_academy_learning_1790269898921.jpg",
+    "badge": "Deep Knowledge",
+    "faqs": [
+      {
+        "question": "Is this taught in English or Urdu?",
+        "answer": "We provide scholars fluent in English, Urdu, and Arabic. You can choose your preferred language of instruction."
+      }
+    ]
+  },
+  {
+    "id": "salah-and-duas",
+    "slug": "salah-and-duas",
+    "title": "Salah and Daily Masnoon Dua",
+    "arabicTitle": "الصلاة والأدعية المأثورة",
+    "category": "Islamic Practice",
+    "level": "Beginner",
+    "suitableFor": "Kids, beginners, and anyone wanting to perfect their prayer and daily supplications",
+    "duration": "2 to 4 Months",
+    "classesPerWeek": "2 to 3 classes / week (30 mins)",
+    "shortDesc": "Learn the step-by-step method of Salah according to the Sunnah, correct Arabic recitation, and daily Sunnah Duas.",
+    "fullOverview": "Salah is the pillar of religion and our direct connection with Allah. This practical, hands-on course teaches students everything needed to perform Salah with complete confidence and serenity (Khushu). Students memorize Tashahhud, Durood Ibrahim, Dua Qunoot, and essential everyday supplications from waking up to sleeping.",
+    "whatYouWillLearn": [
+      "Correct practical demonstration of Wudu and conditions of prayer",
+      "Step-by-step physical postures of Salah (Qiyam, Ruku, Sujood, Jalsah)",
+      "Exact memorization and translation of all words recited in Salah",
+      "Masnoon Duas: Before meals, after meals, entering/leaving home, travel, protection",
+      "Understanding the spiritual meaning of Khushu in prayer"
+    ],
+    "learningOutcomes": [
+      "Flawless performance of daily 5 prayers without guidance",
+      "Spontaneous remembrance of Allah through daily Sunnah supplications",
+      "Elimination of common posture errors and rushed prayer habits"
+    ],
+    "courseBenefits": [
+      "Practical video posture review with gentle teacher guidance",
+      "Laminated printable Dua charts and Salah flashcards",
+      "Special focus on developing love for prayer rather than mere obligation"
+    ],
+    "teachingMethodology": "Visual posture modeling, repetitive vocal practice, and daily routine check-ins.",
+    "classFormat": "1-on-1 personalized coaching session.",
+    "image": "/assets/images/quran_tajweed_reading_1790269867429.jpg",
+    "badge": "Essential Sunnah",
+    "faqs": [
+      {
+        "question": "Can my child take this alongside Noorani Qaida?",
+        "answer": "Yes! Many parents combine 2 days of Qaida and 1 day of Salah & Duas for a well-rounded foundation."
+      }
+    ]
+  },
+  {
+    "id": "basic-islamic-studies",
+    "slug": "basic-islamic-studies",
+    "title": "Basic Islamic Studies",
+    "arabicTitle": "الدراسات الإسلامية الأساسية",
+    "category": "Islamic Studies",
+    "level": "Beginner",
+    "suitableFor": "Children, youth, and new learners seeking a foundational understanding of Islam",
+    "duration": "4 to 6 Months",
+    "classesPerWeek": "2 to 3 classes / week (30-40 mins)",
+    "shortDesc": "Essential foundation in Islamic beliefs (Aqeedah), 5 Pillars of Islam, basic etiquettes, and fundamental supplications.",
+    "fullOverview": "Basic Islamic Studies introduces young learners and beginners to the foundational principles of Islam in an engaging and accessible format. Students explore the Six Articles of Faith (Iman), the Five Pillars of Islam, inspiring stories of the Prophets, basic Halal and Haram guidelines, and everyday Islamic manners (Akhlaq).",
+    "whatYouWillLearn": [
+      "The Six Articles of Faith (Iman) and Tawheed (Oneness of Allah)",
+      "The Five Pillars of Islam (Shahadah, Salah, Zakat, Sawm, Hajj)",
+      "Inspiring stories of Prophet Adam, Nuh, Ibrahim, Musa, Isa, and Muhammad (PBUT)",
+      "Essential Islamic etiquettes: greeting with Salam, truthfulness, respecting parents",
+      "Cleanliness (Taharah), basic Wudu rules, and daily Halal living"
+    ],
+    "learningOutcomes": [
+      "Strong awareness of personal Muslim identity and basic religious obligations",
+      "Familiarity with early Islamic history and prophetic virtues",
+      "Practical implementation of Islamic adab in daily family and school life"
+    ],
+    "courseBenefits": [
+      "Child-friendly illustrated stories and interactive activity sheets",
+      "Weekly moral lessons reinforcing good character and kindness",
+      "Taught by patient, caring scholars who build trust with students"
+    ],
+    "teachingMethodology": "Interactive storytelling, visual concept maps, and practical lifestyle habits.",
+    "classFormat": "1-on-1 private class with custom digital student workbooks.",
+    "image": "/assets/images/islamic_academy_learning_1790269898921.jpg",
+    "badge": "Essential Foundation",
+    "faqs": [
+      {
+        "question": "Is this course appropriate for young kids?",
+        "answer": "Yes, it is specially tailored for children ages 6 to 14, using simple, engaging language and fun educational methods."
+      }
+    ]
+  },
+  {
+    "id": "comprehensive-islamic-studies",
+    "slug": "comprehensive-islamic-studies",
+    "title": "Comprehensive Islamic Studies",
+    "arabicTitle": "الدراسات الإسلامية الشاملة",
+    "category": "Islamic Studies",
+    "level": "Intermediate",
+    "suitableFor": "Teens, adults, and families seeking an in-depth understanding of Seerah, Hadith, and Fiqh",
+    "duration": "9 to 12 Months",
+    "classesPerWeek": "2 to 3 classes / week (40-45 mins)",
+    "shortDesc": "Holistic curriculum covering Seerah of the Prophet (PBUH), 40 Hadith, Fiqh of daily life, and Islamic character.",
+    "fullOverview": "Comprehensive Islamic Studies provides an authentic, well-rounded education in the core branches of Islamic knowledge. Students delve into the chronological Seerah of Prophet Muhammad (PBUH), examine 40 foundational Hadiths with real-life application, master the Fiqh of worship and social transactions, and discuss contemporary ethical questions faced by Muslims today.",
+    "whatYouWillLearn": [
+      "In-depth Seerah: Makkan and Madinan eras, trials, treaties, and prophetic leadership",
+      "Imam An-Nawawi’s 40 Hadith: text, context, and spiritual lessons",
+      "Fiqh of Worship: Taharah, Salah, Funeral (Janazah), Fasting, and Zakat calculation",
+      "Islamic worldview: countering modern doubts, family values, and digital ethics",
+      "The lives and legacy of the Four Rightly Guided Caliphs (Khulafa-e-Rashideen)"
+    ],
+    "learningOutcomes": [
+      "Well-grounded moral and theological framework rooted in the Quran and Sunnah",
+      "Clear understanding of practical Fiqh issues encountered in modern society",
+      "Confidence to articulate Islamic beliefs and live faith with Ihsan"
+    ],
+    "courseBenefits": [
+      "Engaging discussions tailored for Muslim youth and adults living globally",
+      "Weekly interactive quizzes, reflection journals, and open Q&A sessions",
+      "Structured slide decks and reference notes provided for lifetime study"
+    ],
+    "teachingMethodology": "Analytical discussion, thematic exploration, and practical case studies.",
+    "classFormat": "1-on-1 personalized seminar with interactive lecture materials.",
+    "image": "/assets/images/student_quran_online_1792049844560.jpg",
+    "badge": "Holistic Learning",
+    "faqs": [
+      {
+        "question": "Is this course suitable for teens living in Western countries?",
+        "answer": "Yes! The curriculum specifically addresses peer pressure, identity, and practical scenarios faced by Muslim youth in the UK, USA, Canada, and Europe."
+      }
+    ]
+  },
+  {
+    "id": "advanced-islamic-studies",
+    "slug": "advanced-islamic-studies",
+    "title": "Advanced Islamic Studies",
+    "arabicTitle": "الدراسات الإسلامية المتقدمة",
+    "category": "Islamic Studies",
+    "level": "Advanced",
+    "suitableFor": "Advanced students, seekers of sacred knowledge, and community mentors",
+    "duration": "12 to 18 Months",
+    "classesPerWeek": "2 to 3 classes / week (45 mins)",
+    "shortDesc": "In-depth study of Usul al-Fiqh, classical Tafseer principles, Hadith sciences, and contemporary jurisprudence.",
+    "fullOverview": "Designed for serious students seeking higher-level Islamic scholarship, the Advanced Islamic Studies course explores classical methodologies of Islamic jurisprudence (Usul al-Fiqh), Quranic exegesis (Usul al-Tafseer), Hadith classification and critique (Mustalah al-Hadith), comparative Islamic law, and modern ethical dilemmas in bioethics and finance.",
+    "whatYouWillLearn": [
+      "Principles of Islamic Jurisprudence (Usul al-Fiqh): primary and secondary sources of law",
+      "Principles of Quranic Exegesis (Usul al-Tafseer): hermeneutics and classical schools of Tafseer",
+      "Hadith Sciences (Mustalah al-Hadith): Isnad authentication, grading, and compilation history",
+      "Contemporary Islamic Jurisprudence: modern financial contracts, medical ethics, and halal standards",
+      "Islamic history and civilization: major intellectual movements and classical scholastic traditions"
+    ],
+    "learningOutcomes": [
+      "Deep understanding of how classical Islamic legal rulings are derived from sacred texts",
+      "Ability to critically analyze classical commentaries and scholarly literature",
+      "Intellectual maturity to address modern philosophical and social questions with scholastic rigor"
+    ],
+    "courseBenefits": [
+      "Taught exclusively by senior Alim / Alimah graduates of classical Islamic seminaries",
+      "Original classical Arabic text extracts accompanied by analytical English/Urdu translations",
+      "Mentorship and research paper opportunities for advanced students"
+    ],
+    "teachingMethodology": "Textual analysis of classical treatises, scholarly debates, and legal case studies.",
+    "classFormat": "1-on-1 advanced tutorial session with specialized academic texts.",
+    "image": "/assets/images/quran_hifz_study_1792049866584.jpg",
+    "badge": "Scholarly Track",
+    "faqs": [
+      {
+        "question": "Are there prerequisites for this course?",
+        "answer": "A solid foundation in basic Islamic principles and an intermediate level of reading comprehension is recommended."
+      }
+    ]
+  }
+]

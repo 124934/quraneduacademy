@@ -1,0 +1,84 @@
+[
+  {
+    "id": "starter",
+    "name": "Package 1",
+    "tagline": "Ideal for gentle pacing & busy schedules",
+    "basePriceUSD": 35,
+    "classesPerWeek": 2,
+    "classesPerMonth": 8,
+    "classDuration": "30 Minutes per class",
+    "recommendedFor": "Beginners & regular students",
+    "features": [
+      "2 Live 1-on-1 Classes per Week",
+      "8 Interactive Private Sessions Monthly",
+      "Choice of Certified Male or Female Tutor",
+      "3-Day Free Trial (No Card Required)",
+      "Digital Noorani Qaida / Mushaf Included",
+      "Bi-Weekly Progress Report",
+      "Free Class Rescheduling (24h Notice)"
+    ]
+  },
+  {
+    "id": "standard",
+    "name": "Package 2",
+    "tagline": "Our most recommended track for steady progress",
+    "basePriceUSD": 40,
+    "classesPerWeek": 3,
+    "classesPerMonth": 12,
+    "classDuration": "30 Minutes per class",
+    "isPopular": true,
+    "highlightText": "Most Popular Choice",
+    "recommendedFor": "Children & regular students mastering Tajweed",
+    "features": [
+      "3 Live 1-on-1 Classes per Week",
+      "12 Interactive Private Sessions Monthly",
+      "Dedicated Primary Scholar / Teacher",
+      "3-Day Free Trial (No Card Required)",
+      "Digital Tajweed Material & Daily Duas",
+      "Weekly Parent Feedback & Voice Notes",
+      "Free Class Rescheduling with Ease",
+      "Official Completion Certificate"
+    ]
+  },
+  {
+    "id": "regular",
+    "name": "Package 3",
+    "tagline": "Rapid mastery and accelerated Quran fluency",
+    "basePriceUSD": 50,
+    "classesPerWeek": 4,
+    "classesPerMonth": 16,
+    "classDuration": "30 Minutes per class",
+    "recommendedFor": "Students preparing for rapid Quran fluency",
+    "features": [
+      "4 Live 1-on-1 Classes per Week",
+      "16 Interactive Private Sessions Monthly",
+      "Dedicated Senior Certified Scholar",
+      "3-Day Free Trial (No Card Required)",
+      "Full Digital Curriculum & Recordings",
+      "Weekly Live Quiz & Evaluation",
+      "Priority Slot Scheduling",
+      "Course Completion & Tajweed Certificate"
+    ]
+  },
+  {
+    "id": "intensive-hifz",
+    "name": "Package 4",
+    "tagline": "Comprehensive daily Quran learning track",
+    "basePriceUSD": 60,
+    "classesPerWeek": 5,
+    "classesPerMonth": 20,
+    "classDuration": "45 Minutes per class",
+    "highlightText": "Comprehensive Track",
+    "recommendedFor": "Dedicated students & daily learners",
+    "features": [
+      "5 Live 1-on-1 Classes per Week (Mon–Fri)",
+      "20 Intensive Sessions Monthly",
+      "Daily 3-Stage Revision (Sabaq, Sabqi, Manzil)",
+      "Dedicated Senior Scholar / Mentor",
+      "3-Day Free Trial Assessment",
+      "Full Sanad & Ijazah Tracking Portal",
+      "Monthly Mock Exam & Oral Examination",
+      "Formal Certificate upon completion"
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "faq-1",
+    "category": "General",
+    "question": "How do online Quran classes work?",
+    "answer": "Online classes are conducted 1-on-1 via high-quality video/audio conference software such as Zoom, Google Meet, or Skype. The teacher and student view the same interactive digital Mushaf or Noorani Qaida on screen. The teacher recites, points out phonetic articulation with a digital stylus, and listens attentively to the student’s recitation, correcting mistakes immediately."
+  },
+  {
+    "id": "faq-2",
+    "category": "Classes",
+    "question": "How long is each class?",
+    "answer": "Standard classes are 30 minutes long, which educational research shows is the optimal attention span for children and adults to retain phonetic and Quranic lessons without fatigue. For intensive Hifz (memorization) and advanced Tafseer students, 45-minute and 60-minute sessions are also available."
+  },
+  {
+    "id": "faq-3",
+    "category": "Classes",
+    "question": "How long does a course take?",
+    "answer": "Course duration depends on the student’s age, starting level, and weekly frequency. On average: Noorani Qaida takes 3 to 5 months; Quran Reading (Nazra) takes 8 to 12 months; Tajweed mastery takes 6 to 9 months; and complete Hifz of the Quran takes 2 to 3 years. We adapt entirely to the individual pace of the student."
+  },
+  {
+    "id": "faq-4",
+    "category": "Teachers",
+    "question": "Can I choose my teacher?",
+    "answer": "Yes! We have qualified male and female certified scholars (Huffaz, Qaris, and Alims). You can specify whether you prefer a male or female teacher for yourself or your daughter/son, as well as preferred language (English, Urdu, or Arabic). If at any point you wish to switch teachers, our academic coordinator will arrange a replacement seamlessly."
+  },
+  {
+    "id": "faq-5",
+    "category": "General",
+    "question": "Are trial classes available?",
+    "answer": "Yes, we provide a 3-Day Free Trial with zero financial obligation. No credit card or payment information is required. You can experience the teaching methodology, meet your instructor, and evaluate compatibility before making any enrollment decision."
+  },
+  {
+    "id": "faq-6",
+    "category": "Payments & Scheduling",
+    "question": "What class timings are available?",
+    "answer": "Because we serve international students spanning the United States, Canada, the United Kingdom, Europe, the Middle East, and Australia, our academy operates 24 hours a day, 7 days a week. You choose the exact time of day and days of the week that fit your family schedule."
+  },
+  {
+    "id": "faq-7",
+    "category": "Payments & Scheduling",
+    "question": "How does payment work?",
+    "answer": "Tuition is billed monthly after you have completed your 3-day free trial. We accept secure international payments via Credit/Debit Cards, PayPal, Bank Transfer, Stripe, and Wise. We offer flexible plans in USD, GBP, EUR, CAD, AUD, and PKR."
+  },
+  {
+    "id": "faq-8",
+    "category": "Payments & Scheduling",
+    "question": "Can classes be rescheduled?",
+    "answer": "Yes. We understand family emergencies, exams, and travel happen. As long as you notify your teacher or academic coordinator at least 4 to 6 hours in advance, your class will be rescheduled to a makeup slot at no additional fee."
+  },
+  {
+    "id": "faq-9",
+    "category": "Classes",
+    "question": "How is student progress monitored?",
+    "answer": "Every lesson is recorded in our digital student progress portal. The teacher logs the specific Surah, verses recited, errors corrected, and areas of excellence. Students undergo a monthly oral evaluation and receive a formal progress report."
+  },
+  {
+    "id": "faq-10",
+    "category": "General",
+    "question": "How are parents updated on their child’s progress?",
+    "answer": "Parents receive weekly WhatsApp or email summary notes directly from the instructor detailing Sabaq (new lesson), Tajweed rules practiced, and behavior. Parents are also warmly invited to observe classes at any time or request a monthly parent-teacher video consultation."
+  }
+]

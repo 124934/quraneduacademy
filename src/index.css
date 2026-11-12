@@ -1,0 +1,413 @@
+@import "tailwindcss";
+
+:root {
+  --bg-pattern-data: url("/WhatsApp_Image_original.jpeg");
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background-color: #FAF9F5;
+    color: #1E293B;
+    overflow-x: hidden;
+  }
+
+  .font-serif {
+    font-family: 'Cinzel', Georgia, serif;
+  }
+
+  .font-arabic {
+    font-family: 'Amiri', serif;
+  }
+
+/* Accessible Reduced Motion Settings */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Universal smooth transitions across all links, buttons, cards, and form inputs */
+a, button, input, select, textarea {
+  transition: all 0.28s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* Universal smooth text transitions on both desktop and mobile */
+h1, h2, h3, h4, h5, h6, p, span, a, label, li, blockquote {
+  transition: color 0.25s cubic-bezier(0.16, 1, 0.3, 1),
+              opacity 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* Universal smooth image transitions */
+img, picture, svg {
+  transition: transform 0.5s cubic-bezier(0.16, 1, 0.3, 1),
+              filter 0.5s cubic-bezier(0.16, 1, 0.3, 1),
+              opacity 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* Smooth page & section elements transitions */
+main, section {
+  transition: opacity 0.35s ease-out, transform 0.35s ease-out;
+}
+}
+
+/* Remove all transitions and animations from Header and Footer on both mobile and desktop views */
+header,
+footer,
+header *,
+footer *,
+header *::before,
+header *::after,
+footer *::before,
+footer *::after {
+  transition: none !important;
+  animation: none !important;
+}
+
+/* Remove all transitions, animations, and motion effects from user-specified sections & items:
+   - Why Families Choose Us (section, badges, buttons, cards)
+   - Noorani Qaida Course & Advanced Islamic Studies Course
+   - Comprehensive Curriculum / Our Quran & Islamic Studies Courses
+   - View All Courses, View Details, Enroll Now
+   - Our Packages button & pricing cards
+   - Trusted by 200+ Muslim Families / What Our Students & Parents Say (Reviews section)
+   - Footer (all contact, gallery, social, copyright)
+   - Academic Advisor Online (WhatsApp floating widget & chat modal)
+*/
+/* Learnquraan.co.uk Transitions & Micro-interactions (Mobile & Desktop) */
+:root {
+  --lq-ease: cubic-bezier(0.445, 0.05, 0.55, 0.95); /* ease-in-out-sine from learnquraan.co.uk AOS */
+  --lq-duration: 0.35s;
+}
+
+/* Card hover & touch transitions matching learnquraan.co.uk */
+.lq-card-hover {
+  transition: transform 0.35s var(--lq-ease), box-shadow 0.35s var(--lq-ease), border-color 0.35s var(--lq-ease) !important;
+  will-change: transform, box-shadow;
+}
+
+.lq-card-hover:hover,
+.lq-card-hover:active {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px -6px rgba(7, 44, 30, 0.12), 0 4px 8px -2px rgba(7, 44, 30, 0.06);
+}
+
+/* Button smooth transitions matching learnquraan.co.uk */
+.lq-btn {
+  transition: background-color 0.3s var(--lq-ease), transform 0.25s var(--lq-ease), box-shadow 0.3s var(--lq-ease), border-color 0.3s var(--lq-ease) !important;
+}
+
+.lq-btn:active {
+  transform: scale(0.97);
+}
+
+/* Mobile responsive smooth transitions matching learnquraan.co.uk */
+@media (max-width: 768px) {
+  .lq-card-hover:active {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 16px -4px rgba(7, 44, 30, 0.15);
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f1efe9;
+}
+::-webkit-scrollbar-thumb {
+  background: #0A3826;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #072C1E;
+}
+
+/* Fixed Background Viewport Layer - Perfectly smooth and responsive on iOS, Android & Desktop */
+.site-bg-pattern-layer {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("/WhatsApp_Image_original.jpeg");
+  background-repeat: repeat;
+  background-position: top center;
+  background-size: 320px auto;
+  pointer-events: none;
+  z-index: 0;
+  opacity: 0.85;
+}
+
+@media (max-width: 640px) {
+  .site-bg-pattern-layer {
+    background-size: 250px auto;
+    opacity: 0.85;
+  }
+}
+
+/* Islamic Geometric Background Pattern Utility */
+.bg-islamic-pattern {
+  background-image: url("/WhatsApp_Image_original.jpeg");
+  background-repeat: repeat;
+  background-position: center center;
+  background-size: 320px auto;
+}
+
+@media (max-width: 640px) {
+  .bg-islamic-pattern {
+    background-size: 240px auto;
+  }
+}
+
+/* Form background container utility */
+.form-pattern-bg {
+  position: relative;
+  background-color: rgba(255, 255, 255, 0.94);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+
+/* ==========================================================================
+   Premium Responsive Interactive Transitions & Micro-Interactions
+   ========================================================================== */
+
+/* 1. Fluid Interactive Card Elevation Lift & Smooth Shadow */
+.lq-card-hover {
+  transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1),
+              box-shadow 0.35s cubic-bezier(0.16, 1, 0.3, 1),
+              border-color 0.35s cubic-bezier(0.16, 1, 0.3, 1),
+              background-color 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+  will-change: transform, box-shadow;
+}
+
+/* Desktop Hover with Fine Pointer */
+@media (hover: hover) and (pointer: fine) {
+  .lq-card-hover:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 16px 28px -8px rgba(10, 56, 38, 0.12),
+                0 8px 14px -4px rgba(10, 56, 38, 0.06);
+    border-color: rgba(10, 56, 38, 0.28);
+  }
+}
+
+/* Mobile & Touch Devices: Instant tactile feedback without sticky hover */
+@media (hover: none) or (pointer: coarse) {
+  .lq-card-hover:active {
+    transform: scale(0.99);
+  }
+}
+
+/* 2. Smooth Image Zoom & Scale Container */
+.lq-img-zoom {
+  overflow: hidden;
+  position: relative;
+}
+
+.lq-img-zoom img {
+  transition: transform 0.6s cubic-bezier(0.16, 1, 0.3, 1),
+              filter 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+  will-change: transform;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .lq-img-zoom:hover img,
+  .group:hover .lq-img-zoom img,
+  .lq-card-hover:hover .lq-img-zoom img {
+    transform: scale(1.055);
+    filter: brightness(1.02);
+  }
+}
+
+/* 3. Button Micro-interactions (Hover Elevation, Active Press, Icon Slide) */
+.lq-btn {
+  transition: transform 0.22s cubic-bezier(0.16, 1, 0.3, 1),
+              box-shadow 0.22s cubic-bezier(0.16, 1, 0.3, 1),
+              background-color 0.22s cubic-bezier(0.16, 1, 0.3, 1),
+              color 0.22s cubic-bezier(0.16, 1, 0.3, 1),
+              border-color 0.22s cubic-bezier(0.16, 1, 0.3, 1);
+  will-change: transform, box-shadow;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .lq-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 18px -4px rgba(3, 41, 24, 0.24);
+  }
+}
+
+.lq-btn:active {
+  transform: translateY(0px) scale(0.97);
+}
+
+/* 4. Shimmer Effect on CTA Buttons */
+.lq-shimmer-btn {
+  position: relative;
+  overflow: hidden;
+}
+
+.lq-shimmer-btn::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -150%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgba(255, 255, 255, 0.22) 50%,
+    transparent 100%
+  );
+  transform: skewX(-20deg);
+  pointer-events: none;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .lq-shimmer-btn:hover::after {
+    left: 200%;
+    transition: left 0.85s ease-in-out;
+  }
+}
+
+/* 5. Navigation Link Micro-interaction */
+.nav-link-item {
+  position: relative;
+  transition: color 0.25s cubic-bezier(0.16, 1, 0.3, 1),
+              transform 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.nav-link-item::after {
+  content: '';
+  position: absolute;
+  bottom: 0px;
+  left: 50%;
+  width: 0%;
+  height: 2px;
+  background: #FCB205;
+  border-radius: 9999px;
+  transition: width 0.25s cubic-bezier(0.16, 1, 0.3, 1),
+              left 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .nav-link-item:hover::after {
+    width: 80%;
+    left: 10%;
+  }
+}
+
+.nav-link-item.active-link::after {
+  width: 80%;
+  left: 10%;
+}
+
+/* 6. Form Input Smooth Focus */
+input:focus, select:focus, textarea:focus {
+  transition: border-color 0.25s cubic-bezier(0.16, 1, 0.3, 1),
+              box-shadow 0.25s cubic-bezier(0.16, 1, 0.3, 1),
+              background-color 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* 7. Smooth Entrance Animations */
+@keyframes lqFadeInUp {
+  0% {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes lqFadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes lqPulseSubtle {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.025);
+  }
+}
+
+.animate-lq-fade-in-up {
+  animation: lqFadeInUp 0.5s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.animate-lq-fade-in {
+  animation: lqFadeIn 0.4s ease-out both;
+}
+
+.animate-lq-pulse {
+  animation: lqPulseSubtle 3s ease-in-out infinite;
+}
+
+/* Stagger animation delays for cards and lists */
+.lq-stagger-1 { animation-delay: 0.05s; }
+.lq-stagger-2 { animation-delay: 0.10s; }
+.lq-stagger-3 { animation-delay: 0.15s; }
+.lq-stagger-4 { animation-delay: 0.20s; }
+.lq-stagger-5 { animation-delay: 0.25s; }
+.lq-stagger-6 { animation-delay: 0.30s; }
+
+/* Smooth Horizontal Gradient Transition Animation */
+@keyframes horizontalGradientShift {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.animate-horizontal-gradient {
+  background-size: 200% 200%;
+  animation: horizontalGradientShift 8s ease-in-out infinite;
+}
+
+/* Horizontal Floating Motion */
+@keyframes horizontalSway {
+  0%, 100% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(8px);
+  }
+}
+
+.animate-horizontal-sway {
+  animation: horizontalSway 6s ease-in-out infinite;
+}
+
+@keyframes panPatternHorizontal {
+  0% {
+    background-position: 0px 0px;
+  }
+  100% {
+    background-position: 320px 0px;
+  }
+}
+
+.animate-pattern-pan {
+  animation: panPatternHorizontal 28s linear infinite;
+}

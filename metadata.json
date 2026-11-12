@@ -1,0 +1,8 @@
+{
+  "name": "Quran Education academy",
+  "description": "Premier International Islamic Online Academy. Learn Quran Reading, Noorani Qaida, Tajweed, Memorization, Translation, and Islamic Studies with qualified scholars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
