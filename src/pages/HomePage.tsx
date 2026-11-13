@@ -154,22 +154,29 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate, onOpenEnroll }) 
                 <stop offset="100%" stopColor="#FAF9F5" stopOpacity="0" />
               </linearGradient>
               <clipPath id="yellowCurveSilhouette">
-                <path d="M 0,0 L 430,0 Q 460,0 470,30 C 505,135 540,240 540,350 C 540,470 480,575 395,650 Q 360,680 330,680 L 0,680 Z" />
+                <path d="M 0,0 L 460,0 C 500,100 540,240 540,350 C 540,480 470,580 370,680 L 0,680 Z" />
               </clipPath>
             </defs>
             <path
-              d="M 0,0 L 450,0 Q 480,0 490,30 C 525,135 560,240 560,350 C 560,470 500,575 415,650 Q 380,680 350,680 L 0,680 Z"
+              d="M 0,0 L 480,0 C 520,100 560,240 560,350 C 560,480 490,580 390,680 L 0,680 Z"
               fill="#F4EFE6"
               opacity="0.6"
             />
             <g clipPath="url(#yellowCurveSilhouette)">
               <path
-                d="M 0,0 L 430,0 Q 460,0 470,30 C 505,135 540,240 540,350 C 540,470 480,575 395,650 Q 360,680 330,680 L 0,680 Z"
+                d="M 0,0 L 460,0 C 500,100 540,240 540,350 C 540,480 470,580 370,680 L 0,680 Z"
                 fill="url(#heroGoldGradient)"
               />
             </g>
           </svg>
         </motion.div>
+
+        {/* Mobile Bismillah above image slider */}
+        <div className="block lg:hidden w-full text-center pb-2 pt-2 select-none">
+          <div className="font-arabic text-2xl sm:text-3xl text-[#0A3826] font-bold tracking-wider leading-relaxed">
+            بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+          </div>
+        </div>
 
         {/* Hero Content Container */}
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-12 lg:py-16 z-10">
@@ -241,16 +248,18 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate, onOpenEnroll }) 
             {/* Right Side: Clean Background with Bismillah, Title & CTA */}
             <div className="lg:col-span-7 flex flex-col items-center lg:items-start text-center lg:text-left space-y-4 lg:space-y-5 lg:pl-6 xl:pl-10 relative z-20">
               
-              {/* Bismillah centered above Online Quran Academy */}
-              <div className="inline-flex flex-col items-center text-center select-none w-full lg:w-auto">
-                <div className="font-arabic text-2xl sm:text-3xl md:text-4xl text-[#0A3826] font-bold tracking-wider leading-relaxed text-center">
+              {/* Desktop Bismillah centered above Online Quran Academy */}
+              <div className="hidden lg:flex flex-col items-center text-center select-none w-full lg:w-auto">
+                <div className="font-arabic text-3xl md:text-4xl text-[#032918] font-bold tracking-wider leading-relaxed text-center">
                   بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
                 </div>
-                <h1 className="text-3xl sm:text-4xl lg:text-[46px] xl:text-[52px] font-serif font-extrabold leading-[1.15] tracking-tight text-center lg:text-left whitespace-nowrap mt-1">
-                  <span className="text-[#072C1E]">Online </span>
-                  <span className="text-[#FCB205]">Quran Academy</span>
-                </h1>
               </div>
+
+              {/* Main Heading: Online Quran Academy */}
+              <h1 className="text-3xl sm:text-4xl lg:text-[46px] xl:text-[52px] font-serif font-extrabold leading-[1.15] tracking-tight text-center lg:text-left whitespace-nowrap mt-1">
+                <span className="text-[#072C1E]">Online </span>
+                <span className="text-[#FCB205]">Quran Academy</span>
+              </h1>
 
               {/* Premier International Islamic Online Academy Badge */}
               <div className="inline-flex items-center gap-2 px-3.5 sm:px-4 py-1.5 sm:py-2 rounded-full bg-[#032918] text-[#FCB205] text-xs sm:text-sm font-bold shadow-md">
