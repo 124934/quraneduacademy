@@ -133,15 +133,15 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate, onOpenEnroll }) 
           >
             <defs>
               <linearGradient id="heroGoldGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" stopColor="#FBD415">
+                <stop offset="0%" stopColor="#FFAE00">
                   <animate
                     attributeName="stopColor"
-                    values="#FBD415;#FCE253;#FBD415"
+                    values="#FFAE00;#FFBE2E;#FFAE00"
                     dur="7s"
                     repeatCount="indefinite"
                   />
                 </stop>
-                <stop offset="50%" stopColor="#FCE253">
+                <stop offset="50%" stopColor="#FFBE2E">
                   <animate
                     attributeName="offset"
                     values="0.50;0.62;0.50"
@@ -149,7 +149,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate, onOpenEnroll }) 
                     repeatCount="indefinite"
                   />
                 </stop>
-                <stop offset="82%" stopColor="#FBD415" />
+                <stop offset="82%" stopColor="#FFAE00" />
                 <stop offset="96%" stopColor="#F8F4EC" stopOpacity="0.85" />
                 <stop offset="100%" stopColor="#FAF9F5" stopOpacity="0" />
               </linearGradient>
@@ -190,7 +190,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate, onOpenEnroll }) 
               className="lg:col-span-5 relative flex justify-start items-center"
             >
               <div className="w-full lg:contents">
-                <div className="rounded-3xl lg:rounded-none bg-gradient-to-r from-[#FBD415] via-[#FCE253] to-[#FBD415] animate-horizontal-gradient lg:bg-none p-6 sm:p-8 lg:p-0 text-white relative overflow-hidden shadow-lg lg:shadow-none">
+                <div className="rounded-3xl lg:rounded-none bg-gradient-to-r from-[#FFAE00] via-[#FFBE2E] to-[#FFAE00] animate-horizontal-gradient lg:bg-none p-6 sm:p-8 lg:p-0 text-white relative overflow-hidden shadow-lg lg:shadow-none">
                   <div className="relative z-20 flex flex-col items-center lg:items-start py-4 sm:py-6 lg:py-8 pl-0 sm:pl-2 w-full">
                     <div className="relative h-[270px] sm:h-[330px] md:h-[360px] w-full flex items-end justify-center lg:justify-start">
                       <AnimatePresence mode="wait">
